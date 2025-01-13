@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luna</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&pause=1000&color=CF6654&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+Luna!)](https://git.io/typing-svg)
 <h3 align="center">A beginner developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsfreckles&label=Profile%20views&color=0e75b6&style=flat" alt="mrsfreckles" /> </p>
