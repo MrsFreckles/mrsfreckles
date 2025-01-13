@@ -1,4 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&pause=1000&color=CF6654&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+Luna!" alt="Typing SVG" /></a>
+<p align="center">
+    <a href="#">
+        <img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&pause=1000&color=CF6654&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+Luna!" alt="Typing SVG" />
+    </a>
+</p>
 <h3 align="center">A beginner developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsfreckles&label=Profile%20views&color=0e75b6&style=flat" alt="mrsfreckles" /> </p>
