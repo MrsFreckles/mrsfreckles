@@ -9,6 +9,14 @@
     </a>
 </p>
 
+<details open> 
+    <summary><h2>🌟 Recent Projects</h2></summary>
+    <a href="[https://github.com/Leonlp9/Kochbuch](https://github.com/MrsFreckles/GreenfootTemplateIntellij)">
+       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrsFreckles&repo=GreenfootTemplateIntellij&theme=react&bg_color=1F222E&title_color=CF6654&hide_border=true&icon_color=CF6654&show_icons=false" alt="GreenfootTemplateIntellij">
+    </a>
+    <a href="https://github.com/MrsFreckles?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/</a>
+</details>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsfreckles&label=Profile%20views&color=0e75b6&style=flat" alt="mrsfreckles" /> </p>
 
