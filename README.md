@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **basics in Java**
 
-- 👨‍💻 All of my projects are available at [...](...)
+- 👨‍💻 All of my projects are available at my GitHub
 
 - 📫 How to reach me **lunak.github@gmail.com**
 
