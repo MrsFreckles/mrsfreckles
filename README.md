@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#">
-        <img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&pause=1000&color=CF6654&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+Luna!" alt="Typing SVG" />
+       <img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&pause=1000&color=D56552&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Hi!+I'm+Luna!" alt="Typing SVG" />
     </a>
 </p>
 <p align="center">
@@ -13,6 +13,12 @@
     <summary><h2>🌟 Recent Projects</h2></summary>
     <a href="[https://github.com/MrsFreckles/GreenfootTemplateIntellij](https://github.com/MrsFreckles/GreenfootTemplateIntellij)">
        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrsFreckles&repo=GreenfootTemplateIntellij&theme=react&bg_color=1F222E&title_color=CF6654&hide_border=true&icon_color=CF6654&show_icons=false" alt="GreenfootTemplateIntellij">
+    </a>
+<a href="https://github.com/MrsFreckles/Lunas-Application">
+       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrsFreckles&repo=Lunas-Application&theme=react&bg_color=1F222E&title_color=CF6654&hide_border=true&icon_color=CF6654&show_icons=false" alt="Lunas-Application">
+    </a>
+<a href="https://github.com/MrsFreckles/linktree">
+       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrsFreckles&repo=linktree&theme=react&bg_color=1F222E&title_color=CF6654&hide_border=true&icon_color=CF6654&show_icons=false" alt="linktree">
     </a>
     <a href="https://github.com/MrsFreckles?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/</a>
 </details>
