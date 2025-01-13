@@ -47,7 +47,7 @@
 <p align="left">
 </p>
 
-<details>
+<details open>
     <summary><h2>🛠️ Tools I Use</h2></summary>
         <h3>👨‍💻 Programming and Markup Languages</h3>
         <p>
@@ -79,7 +79,7 @@
         </p>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
 <h3>🔥 Streak Stats</h3>
