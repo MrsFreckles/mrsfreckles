@@ -85,18 +85,18 @@
 <h3>🔥 Streak Stats</h3>
 <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MrsFreckles's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MrsFreckles&theme=monokai-metallian&hide_border=true&short_numbers=true&ring=00C853&fire=FFD700&currStreakNum=FFD700&sideNums=FFFFFF&currStreakLabel=00C853&sideLabels=00C853&card_width=400" />
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="'s streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MrsFreckles&theme=monokai-metallian&hide_border=true&short_numbers=true&ring=00C853&fire=FFD700&currStreakNum=FFD700&sideNums=FFFFFF&currStreakLabel=00C853&sideLabels=00C853&mode=weekly&hide_total_contributions=true&card_width=400" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MrsFreckles's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MrsFreckles&theme=monokai-metallian&hide_border=true&short_numbers=true&ring=1F222E&fire=FFD700&currStreakNum=FFD700&sideNums=FFFFFF&currStreakLabel=1F222E&sideLabels=1F222E&card_width=400" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="'s streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MrsFreckles&theme=monokai-metallian&hide_border=true&short_numbers=true&ring=1F222E&fire=FFD700&currStreakNum=FFD700&sideNums=FFFFFF&currStreakLabel=1F222E&sideLabels=1F222E&mode=weekly&hide_total_contributions=true&card_width=400" />
     </a>
 </p>
 
 <h3>💻 GitHub Profile Stats</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MrsFreckles's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MrsFreckles&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00C853&icon_color=8BC34A" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MrsFreckles's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MrsFreckles&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00C853&icon_color=8BC34A&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MrsFreckles's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MrsFreckles&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=1F222E&icon_color=8BC34A" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MrsFreckles's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MrsFreckles&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=1F222E&icon_color=8BC34A&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MrsFreckles's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MrsFreckles&bg_color=1F222E&color=8BC34A&line=00C853&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MrsFreckles's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MrsFreckles&bg_color=1F222E&color=8BC34A&line=1F222E&point=FFFFFF&hide_border=true" /></a>
 </details>
