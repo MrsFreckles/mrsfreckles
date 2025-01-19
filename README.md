@@ -89,7 +89,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="'s streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MrsFreckles&theme=monokai-metallian&hide_border=true&short_numbers=true&ring=CF6654&fire=FFD700&currStreakNum=FFD700&sideNums=FFFFFF&currStreakLabel=CF6654&sideLabels=CF6654&mode=weekly&hide_total_contributions=true&card_width=400" />
     </a>
 </p>
-
+ 
 <h3>💻 GitHub Profile Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MrsFreckles's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MrsFreckles&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=CF6654&icon_color=FCBDA8" height="192px"/></a>
