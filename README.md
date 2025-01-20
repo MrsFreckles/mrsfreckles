@@ -101,6 +101,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MrsFreckles's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MrsFreckles&bg_color=1F222E&color=FCBDA8&line=CF6654&point=FFFFFF&hide_border=true" /></a>
 </details>
 
+
 <h3>Watch a snake eat my Streak</h3>
 <div align="center">
   <picture>
