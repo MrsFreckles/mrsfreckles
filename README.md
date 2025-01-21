@@ -8,7 +8,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=25&pause=1000&color=FCBDA8&center=true&vCenter=true&random=true&width=435&lines=A+beginner+developer+from+Germany" alt="Typing SVG" />
     </a>
 </p>
-
+ 
 <details open> 
     <summary><h2>🌟 Recent Projects</h2></summary>
     <a href="https://github.com/MrsFreckles/Lunas-Application">
