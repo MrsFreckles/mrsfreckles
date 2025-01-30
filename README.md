@@ -36,7 +36,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsfreckles&label=Profile%20views&color=0e75b6&style=flat" alt="mrsfreckles" /> </p>
 
 - 🔭 I’m currently working on [my own Discord Bot]([https://github.com/MrsFreckles/DiscordBinaryBot](https://github.com/MrsFreckles/Lunas-Application)
-
+ 
 - 🌱 I’m currently learning **basics in Java**
 
 - 👨‍💻 All of my projects are available at my GitHub
