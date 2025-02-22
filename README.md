@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="#">
+    <a href="#"> 
        <img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&pause=1000&color=D56552&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Hi!+I'm+Luna!" alt="Typing SVG" />
     </a>
 </p>
