@@ -14,17 +14,17 @@
     <a href="https://github.com/MrsFreckles/Lunas-Application">
        <img width="278" src=https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrsFreckles&repo=Lunas-Application&theme=react&bg_color=1F222E&title_color=CF6654&hide_border=true&icon_color=CF6654&show_icons=false">
     </a>
-    <a href="https://github.com/MrsFreckles/GreenfootTemplateIntellij">
-       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrsFreckles&repo=GreenfootTemplateIntellij&theme=react&bg_color=1F222E&title_color=CF6654&hide_border=true&icon_color=CF6654&show_icons=false" alt="GreenfootTemplateIntellij">
-    </a>
 <a href="https://github.com/MrsFreckles/linktree">
        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrsFreckles&repo=linktree&theme=react&bg_color=1F222E&title_color=CF6654&hide_border=true&icon_color=CF6654&show_icons=false" alt="linktree">
     </a>
+<a href="https://github.com/MrsFreckles/DiscordPuppet">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrsFreckles&repo=DiscordPuppet&theme=react&bg_color=1F222E&title_color=CF6654&hide_border=true&icon_color=CF6654&show_icons=false" alt="DiscordPuppet">
+</a>
 <a href="https://github.com/MrsFreckles/TwitchOverlay">
        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrsFreckles&repo=TwitchOverlay&theme=react&bg_color=1F222E&title_color=CF6654&hide_border=true&icon_color=CF6654&show_icons=false" alt="TwitchOverlay">
-    </a>
-<a href="https://github.com/MrsFreckles/Game-of-Life">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrsFreckles&repo=Game-of-Life&theme=react&bg_color=1F222E&title_color=CF6654&hide_border=true&icon_color=CF6654&show_icons=false" alt="Game of Life">
+</a>
+<a href="https://github.com/MrsFreckles/GreenfootTemplateIntellij">
+       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrsFreckles&repo=GreenfootTemplateIntellij&theme=react&bg_color=1F222E&title_color=CF6654&hide_border=true&icon_color=CF6654&show_icons=false" alt="GreenfootTemplateIntellij">
 </a>
 <a href="https://github.com/MrsFreckles/Sorter">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrsFreckles&repo=Sorter&theme=react&bg_color=1F222E&title_color=CF6654&hide_border=true&icon_color=CF6654&show_icons=false" alt="Sorter">
