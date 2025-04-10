@@ -41,12 +41,6 @@
 
 - 👨‍💻 All of my projects are available at my GitHub
 
-- 📫 How to reach me **lunak.github@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <details open>
     <summary><h2>🛠️ Tools I Use</h2></summary>
         <h3>👨‍💻 Programming and Markup Languages</h3>
