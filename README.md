@@ -46,15 +46,18 @@
         <h3>👨‍💻 Programming and Markup Languages</h3>
         <p>
             <a href="#"><img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white"></a>
+            <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"></a>
             <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"></a>
             <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"></a>
             <a href="#"><img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"></a>
             <a href="#"><img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white"></a>
+            <a href="#"><img alt="JSON" src="https://img.shields.io/badge/-JSON-5E5C5C?logo=json&logoColor=white"></a>
             <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white"></a>
         </p>
         <h3>🧰 Frameworks and Libraries</h3>
         <p>
             <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+            <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"></a>
         </p>
         <h3>🗄️ Databases and Cloud Hosting</h3>
         <p>
