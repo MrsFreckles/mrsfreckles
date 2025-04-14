@@ -39,11 +39,11 @@
  
 - 🌱 I’m currently learning **basics in Java**
 
-- 👨‍💻 All of my projects are available at my GitHub
+- 👩‍💻 All of my projects are available at my GitHub
 
 <details open>
     <summary><h2>🛠️ Tools I Use</h2></summary>
-        <h3>👨‍💻 Programming and Markup Languages</h3>
+        <h3>👩‍💻 Programming and Markup Languages</h3>
         <p>
             <a href="#"><img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white"></a>
             <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"></a>
