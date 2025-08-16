@@ -1,4 +1,8 @@
 <p align="center">
+    <h1 align="center">I MOVED MY PROFILE! <br> <a href="https://git.gay/MrsFreckles">git.gay/MrsFreckles</a></h1>
+</p>
+
+<p align="center">
     <a href="#"> 
        <img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&pause=1000&color=D56552&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Hi!+I'm+Luna!" alt="Typing SVG" />
     </a>
