@@ -39,47 +39,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsfreckles&label=Profile%20views&color=0e75b6&style=flat" alt="mrsfreckles" /> </p>
 
-- 🔭 I’m currently working on [my own Discord Bot](https://github.com/MrsFreckles/Lunas-Application)
- 
-- 🌱 I’m currently learning **basics in Java**
-
-- 👩‍💻 All of my projects are available at my GitHub
-
-<details open>
-    <summary><h2>🛠️ Tools I Use</h2></summary>
-        <h3>👩‍💻 Programming and Markup Languages</h3>
-        <p>
-            <a href="#"><img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white"></a>
-            <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"></a>
-            <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"></a>
-            <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"></a>
-            <a href="#"><img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"></a>
-            <a href="#"><img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white"></a>
-            <a href="#"><img alt="JSON" src="https://img.shields.io/badge/-JSON-5E5C5C?logo=json&logoColor=white"></a>
-            <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white"></a>
-        </p>
-        <h3>🧰 Frameworks and Libraries</h3>
-        <p>
-            <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-            <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"></a>
-        </p>
-        <h3>🗄️ Databases and Cloud Hosting</h3>
-        <p>
-            <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-            <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-            <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
-        </p>
-        <h3>💻 Software and Tools</h3>
-        <p>
-            <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-DD7A2A.svg?logo=intellij-idea&logoColor=white"></a>
-            <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-C43DFF.svg?logo=phpstorm&logoColor=white"></a>
-            <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
-            <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-            <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-            <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-        </p>
-</details>
-
 <details open> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
@@ -101,14 +60,3 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MrsFreckles's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MrsFreckles&bg_color=1F222E&color=FCBDA8&line=CF6654&point=FFFFFF&hide_border=true" /></a>
 </details>
-
-
-<h3>Watch a snake eat my Streak</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrsFreckles/mrsfreckles/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/MrsFreckles/mrsfreckles/blob/main/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-<!-- <h4> _generated with [Platane/snk](https://platane.me/snk/)_</h4> -->
-</div>
